@@ -9,10 +9,10 @@ To view the project click here [Demo](https://facebook-login-clone-manan.netlify
 
 In the project directory, you can run:
 
-### `npm install -D tailwindcss postcss autoprefixer`
+* ### `npm install -D tailwindcss postcss autoprefixer`
 
-### `npm install vite`
+* ### `npm install vite`
 
-### `npx tailwindcss init`
+* ### `npx tailwindcss init`
 
-### `npm start`
+* ### `npm start`
