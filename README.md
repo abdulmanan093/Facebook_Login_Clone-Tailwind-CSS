@@ -3,7 +3,7 @@
 This is FACEBOOK login clone project create using with Tailwind Css.\
 To view the project click here [Demo](https://facebook-login-clone-manan.netlify.app/).
 
-![Login page](../Screenshot 2024-02-03 224633.png)
+![Login page] (https://github.com/abdulmanan093/Facebook_Login_Clone-Tailwind-CSS/assets/138243512/399c6d4f-ea54-42fb-a621-2522503d4dbc)
 
 ## Installation Scripts:
 
